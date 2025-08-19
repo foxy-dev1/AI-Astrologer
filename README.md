@@ -11,9 +11,6 @@ An intelligent Vedic astrology application that provides personalized readings u
 - **🌍 Global Location Support**: Automatic timezone and coordinate detection
 - **📱 User-Friendly Interface**: Clean, intuitive Streamlit web interface
 
-## 🚀 Live Demo
-
-[Add your deployed app URL here]
 
 ## 🛠️ Prerequisites
 
